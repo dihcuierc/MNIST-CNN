@@ -2,7 +2,7 @@ MNIST Dataset prediction using Convolutional Neural Network (CNN) model
 
 Inputs: 28x28 grayscale image
 
-<img src="https://github.com/dihcuierc/MNIST-CNN/images/input%20image.png" alt="image sample" width="200"/>
+<img src="https://github.com/dihcuierc/MNIST-CNN/blob/main/images/input%20image.png?raw=true" alt="image sample" width="200"/>
 
 RandomAffine: Random affine transformation of the image
 
@@ -28,7 +28,7 @@ Outputs: 10 digit classification (0-9):
 - Train accracy: 97.4%
 - Test accuracy: 99.2%
 
-<img src="https://github.com/dihcuierc/MNIST-CNN/images/accuracy.png" alt="train and test accuracy" width="500"/>
+<img src="https://github.com/dihcuierc/MNIST-CNN/blob/main/images/accuracy.png?raw=true" alt="train and test accuracy" width="500"/>
 
 - model weights are saved in MNIST_model.pth
 
